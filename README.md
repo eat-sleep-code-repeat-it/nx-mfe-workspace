@@ -1,18 +1,9 @@
-# nx-mfe-workspace
+# Micro Front Examples
 
-```bash
+## [Coffee MFE shared lib - ng-14.1.1](https://github.com/eat-sleep-code-repeat-it/nx-mfe-workspace/tree/coffee-demo-shared-lib)
 
-cd coffee-mfe/mfe-backet
-npm install
-ng serve
+## [Simple Module Federation - ng-14.1.1](https://github.com/eat-sleep-code-repeat-it/nx-mfe-workspace/tree/ng14-federation-demo)
 
-got to: http://localhost:4201/
+## [Food Order without MFE - ng-13.2.3](https://github.com/eat-sleep-code-repeat-it/nx-mfe-workspace/tree/food-order-app)
 
-cd coffee-mfe/shell
-npm install
-ng serve
-
-got to: http://localhost:4200/
-
-```
-
+## [Food Order with MFE - ng-13.2.3](https://github.com/eat-sleep-code-repeat-it/nx-mfe-workspace/tree/food-order-ng13-mfe-plugin)
