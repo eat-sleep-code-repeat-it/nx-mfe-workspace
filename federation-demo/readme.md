@@ -166,9 +166,12 @@ ng serve host
 
 ```
 
-## reference
+## Reference
 
 - https://dev.to/sbhuvane/micro-frontend-in-angular-using-module-federation-31om
 - https://github.com/manfredsteyer/module-federation-plugin-example
 - https://www.npmjs.com/package/webpack
 - https://itnext.io/what-to-expect-from-angular-14-in-2022-is-micro-frontend-coming-7932566f773
+- https://developer.okta.com/blog/2022/05/17/angular-microfrontend-auth
+- https://auth0.com/blog/micro-frontends-with-angular-module-federation-and-auth0/
+- https://github.com/module-federation/module-federation-examples
