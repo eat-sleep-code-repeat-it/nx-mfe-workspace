@@ -19,6 +19,9 @@
 - [Micro Frontend Angular Tutorial: Build Micro Frontends Using Angular Elements](https://www.bacancytechnology.com/blog/build-micro-frontends-using-angular-elements)
 - [Insights on Micro Frontends Architecture with Angular and Web Components](https://santexgroup.com/blog/micro-frontend-architecture-using-angular-and-web-components/)
 - [Youtube: Micro Frontend using Angular Elements](https://www.youtube.com/watch?v=oqle07Ifyoc)
+- https://www.bacancytechnology.com/blog/build-micro-frontends-using-angular-elements#4
+- https://angular-extensions.github.io/elements/#/docs/getting-started
+- https://medium.com/codingthesmartway-com-blog/angular-elements-a-practical-introduction-to-web-components-with-angular-6-52c0b3076c2c
 
 ## Angular Elements with Routing
 
@@ -31,4 +34,6 @@
 - [how-to-build-a-micro-frontend-with-webpacks-module-federation-plugin](https://dev.to/bitovi/how-to-build-a-micro-frontend-with-webpacks-module-federation-plugin-n41)
 - [Module Federation — Sharing Library Code](https://medium.com/tenable-techblog/7-module-federation-sharing-library-code-759ae98f7fc8)
 - [The Microfrontend Revolution: Module Federation in Webpack 5](https://www.angulararchitects.io/aktuelles/the-microfrontend-revolution-module-federation-in-webpack-5/)
+
+- https://www.npmjs.com/package/http-server
 
